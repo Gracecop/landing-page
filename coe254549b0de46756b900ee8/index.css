@@ -1,0 +1,179 @@
+body{
+    margin: 0;
+}
+header{
+    padding-top: 20px;
+    background-image: url(images/sky.jpg);
+    margin-bottom: 10px;
+    background-size: cover;
+}
+.run{
+    margin-top: 50px;
+}
+.con{
+    display: flex;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;  
+}
+.done{
+    display: flex;
+}
+.shoe{
+    display: flex;
+    align-items: center;
+    margin: 50px auto 0 auto;
+}
+.she{
+    box-shadow: 10px 10px 10px black;
+    width: 250px;
+}
+.hel{
+    box-shadow: 10px 10px 10px black;
+    width: 350px;
+    height: 250px;
+    margin-left: 30px;
+}
+.he{
+    box-shadow: 10px 10px 10px black;
+    width: 400px;
+    height: 250px;
+    margin-left: 30px;
+}
+
+.sales{
+    box-shadow: 10px 10px 20px black;
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.air{
+    color: white;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+.afri{
+    margin-top: 5;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.buy{
+    width: 500px;
+    line-height: 1.3;
+    background: #c6ac8f;
+    border-radius: 20px;
+    padding: 1px 10px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.btn{
+    text-align: center;
+}
+button{
+    border-radius: 100%;
+    width: 50px;
+    background: saddlebrown;
+    font-size: 30px;
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.text,
+.text1,
+.text2{
+    width: 100px;
+    background: saddlebrown;
+    text-align: center;
+    margin: 10px auto;
+    color: white;
+    padding: 10px;
+}
+.buy h1{
+    font-size: 50px;
+}
+span{
+    color: white;
+}
+.full{
+    display: flex;
+    flex-direction: row;
+    
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
+.browse,
+.browse1{
+    background: #ffcdb2;
+    padding: 15px 40px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.browse{
+    background: white;
+}
+.browse1{
+    background: saddlebrown;
+}
+.pearl{
+    font-family: 'Lobster', cursive;
+    margin-left: 10px;
+    color: black;
+    text-shadow: 0 0 10px white;
+}
+.or{
+    margin-top: 30px;
+}
+.image{
+    width: 100px;
+    border-radius: 100%;
+    height: 95px;
+}
+.first{
+    display: flex;
+}
+.type{
+    width: 40%;
+    box-sizing: border-box;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.sell{
+    background: saddlebrown;
+    color: white;
+    padding: 15px 20px;;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.sneak{
+    width: 100%;
+}
+.unik{
+    margin-left: 20px;
+}
+.uni{
+    margin-left: 50px;
+}
+.uni,
+.unik{
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
